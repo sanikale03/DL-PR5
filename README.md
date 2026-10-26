@@ -32,7 +32,7 @@ The implementation is provided in Jupyter Notebook format using Python and Tenso
 
 ## 📺 Presentation Video
 
-👉 **https://drive.google.com/file/d/1kmwR3SfuSy2SD7GK4B7VeyXmdcdiLr2x/view?usp=sharing**
+👉 **https://drive.google.com/file/d/1JvPl43RN0e-IVOXcZZXSMMV7eIhuhCdX/view?usp=sharing**
 ------------------------------------------------------------------------
 
 ## 📂 Project Input — IMDB Dataset
