@@ -1,0 +1,1 @@
+tensorflow\nscikit-learn\npandas\nnumpy\nmatplotlib\nseaborn\nnbformat\n
